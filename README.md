@@ -9,7 +9,7 @@ The project was built to practice Bootstrap's layout system, components, and res
 
 ## 📸 Preview
 
-![Blog Front-End Screenshot](./images/Screenshot (5).png)
+![Blog Front-End Screenshot](./images/screenshot.png)
 
 ---
 
